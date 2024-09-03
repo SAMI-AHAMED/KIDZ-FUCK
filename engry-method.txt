@@ -1,0 +1,14 @@
+url : b-graph.facebook.com
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; SM-G615FU Build/SP1A.781437.852 [FBAN/Orca-Android;FBAV/369.0.0.8.150;FBPN/com.facebook.adsmanager;FBLC/en_GB;FBBV/61025979;FBCR/Claro BR;FBMF/samsung;FBBD/samsung;FBDV/SM-G615FU;FBSV/8.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Authorization: OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32
+X-FB-Friendly-Name: authenticate                                       X-FB-Connection-Bandwidth: 29144                                       X-FB-Net-HNI: 28640
+X-FB-SIM-HNI: 22998
+X-FB-Connection-Type: unknown
+Content-Type: application/x-www-form-urlencoded
+X-FB-HTTP-Engine: Liger                                                Content-Length: 505
+
+
+adid=0759b07e-1683-4746-b29b-7c9190bb02f8&format=json&device_id=3ea5d2ca-e892-4e67-94f9-68663b040118&email=01778233088&password=01778233088&generate_analytics_claims=1&community_id=&cpl=true&try_num=1&family_device_id=606e70ab-5284-468b-b1e7-2e00b9f204a6&credentials_type=password&source=login&error_detail_type=button_with_disabled&enroll_misauth=false&generate_session_cookies=1&generate_machine_id=1&currently_logged_in_userid=0&locale=en_GB&client_country_code=GB&fb_api_req_friendly_name=authenticate
